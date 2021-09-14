@@ -1,16 +1,16 @@
 
-Enter 1 for One player mode:
-Enter 2 for Two player mode:
-Enter 3 for Exit:2
-   |   |  
----+---+---
-   |   |  
----+---+---
-   |   |  
-Player1 sign:X
-Player2 sign:O
-Enter row index for Player1[0-2]:0
-enter column index for player1[0-2]:0
+Enter 1 for One player mode:  
+Enter 2 for Two player mode:  
+Enter 3 for Exit:2  
+   |   |        
+---+---+---  
+   |   |      
+---+---+---  
+   |   |      
+Player1 sign:X  
+Player2 sign:O  
+Enter row index for Player1[0-2]:0  
+enter column index for player1[0-2]:0  
  X |   |  
 ---+---+---
    |   |  
