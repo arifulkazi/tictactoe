@@ -10,9 +10,9 @@ public class Game {
 	 * @return mode
 	 */
 	private static int inputMode() {
-		System.out.println("\nEnter 1 for One player mode:");
-		System.out.println("Enter 2 for Two player mode:");
-		System.out.print("Enter 3 for Exit:");
+		System.out.println("\nInput 1 for One player mode<CPU mode>:");
+		System.out.println("Input 2 for Two player mode:");
+		System.out.print("Input 3 for Exit:");
 		int mode = inputNumber.nextInt();
 		return mode;
 	}
@@ -36,10 +36,10 @@ public class Game {
 					System.out.println("\nPlayer2 sign:"+game.getPlayer2Sign());
 				}
 	
-				System.out.print("Enter row index for Player1[0-2]:");
+				System.out.print("Input row index for Player1[0-2]:");
 				// input row position of the game board array for player 1
 				int row = inputNumber.nextInt();
-				System.out.print("Enter column index for player1[0-2]:");
+				System.out.print("Input column index for player1[0-2]:");
 				// input column position of the game board array for player 1
 				int col = inputNumber.nextInt();
 	
@@ -63,10 +63,10 @@ public class Game {
 							boolean valid = false;
 							do {
 								game.printBoard();
-								System.out.print("\nEnter row index for Player2[0-2]:");
+								System.out.print("\nInput row index for Player2[0-2]:");
 								// input row position of the game board array for player 2
 								row = inputNumber.nextInt();
-								System.out.print("Enter column index for player2[0-2]:");
+								System.out.print("Input column index for player2[0-2]:");
 								// input row position of the game board array for player 2
 								col = inputNumber.nextInt();
 								valid = game.putSignForPlayer(row,col,game.getPlayer2Sign());

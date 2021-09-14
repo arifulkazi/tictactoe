@@ -1,7 +1,7 @@
 <pre>
-Enter 1 for One player mode:
-Enter 2 for Two player mode:
-Enter 3 for Exit:1
+Input 1 for One player mode<CPU mode>:  
+Input 2 for Two player mode:
+Input 3 for Exit:1
    |   |  
 ---+---+---
    |   |  
@@ -9,8 +9,8 @@ Enter 3 for Exit:1
    |   |  
 Player1 sign:X
 CPU sign:O
-Enter row index for Player1[0-2]:0
-enter column index for player1[0-2]:0
+Input row index for Player1[0-2]:0
+Input column index for player1[0-2]:0
  X |   | O
 ---+---+---
    |   |  
@@ -18,8 +18,8 @@ enter column index for player1[0-2]:0
    |   |  
 Player1 sign:X
 CPU sign:O
-Enter row index for Player1[0-2]:0
-enter column index for player1[0-2]:1
+Input row index for Player1[0-2]:0
+Input column index for player1[0-2]:1
  X | X | O
 ---+---+---
    | O |  
@@ -27,8 +27,8 @@ enter column index for player1[0-2]:1
    |   |  
 Player1 sign:X
 CPU sign:O
-Enter row index for Player1[0-2]:1
-enter column index for player1[0-2]:0
+Input row index for Player1[0-2]:1
+Input column index for player1[0-2]:0
  X | X | O
 ---+---+---
  X | O |  
@@ -36,8 +36,8 @@ enter column index for player1[0-2]:0
    |   | O
 Player1 sign:X
 CPU sign:O
-Enter row index for Player1[0-2]:2
-enter column index for player1[0-2]:1
+Input row index for Player1[0-2]:2
+Input column index for player1[0-2]:1
  X | X | O
 ---+---+---
  X | O |  
@@ -45,9 +45,9 @@ enter column index for player1[0-2]:1
  O | X | O
 Congratulation!! CPU win the game
 
-Enter 1 for One player mode:
-Enter 2 for Two player mode:
-Enter 3 for Exit:2
+Input 1 for One player mode<CPU mode>:
+Input 2 for Two player mode:
+Input 3 for Exit:2
    |   |  
 ---+---+---
    |   |  
@@ -55,15 +55,15 @@ Enter 3 for Exit:2
    |   |  
 Player1 sign:X
 Player2 sign:O
-Enter row index for Player1[0-2]:0
-enter column index for player1[0-2]:0
+Input row index for Player1[0-2]:0
+Input column index for player1[0-2]:0
  X |   |  
 ---+---+---
    |   |  
 ---+---+---
    |   |  
-Enter row index for Player2[0-2]:0
-Enter column index for player2[0-2]:2
+Input row index for Player2[0-2]:0
+Input column index for player2[0-2]:2
  X |   | O
 ---+---+---
    |   |  
@@ -71,15 +71,15 @@ Enter column index for player2[0-2]:2
    |   |  
 Player1 sign:X
 Player2 sign:O
-Enter row index for Player1[0-2]:1
-enter column index for player1[0-2]:1
+Input row index for Player1[0-2]:1
+Input column index for player1[0-2]:1
  X |   | O
 ---+---+---
    | X |  
 ---+---+---
    |   |  
-Enter row index for Player2[0-2]:1
-Enter column index for player2[0-2]:2
+Input row index for Player2[0-2]:1
+Input column index for player2[0-2]:2
  X |   | O
 ---+---+---
    | X | O
@@ -87,15 +87,15 @@ Enter column index for player2[0-2]:2
    |   |  
 Player1 sign:X
 Player2 sign:O
-Enter row index for Player1[0-2]:2
-enter column index for player1[0-2]:1
+Input row index for Player1[0-2]:2
+Input column index for player1[0-2]:1
  X |   | O
 ---+---+---
    | X | O
 ---+---+---
    | X |  
-Enter row index for Player2[0-2]:2
-Enter column index for player2[0-2]:2
+Input row index for Player2[0-2]:2
+Input column index for player2[0-2]:2
  X |   | O
 ---+---+---
    | X | O
@@ -103,9 +103,9 @@ Enter column index for player2[0-2]:2
    | X | O
 Congratulation!! Player2 win the game
 
-Enter 1 for One player mode:
-Enter 2 for Two player mode:
-Enter 3 for Exit:3
+Input 1 for One player mode:
+Input 2 for Two player mode:
+Input 3 for Exit:3
 
 Game exit
 </pre>
