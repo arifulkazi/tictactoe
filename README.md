@@ -105,5 +105,7 @@ Congratulation!! Player2 win the game
 
 Enter 1 for One player mode:
 Enter 2 for Two player mode:
-Enter 3 for Exit:
+Enter 3 for Exit:3
+
+Game exit
 </pre>
