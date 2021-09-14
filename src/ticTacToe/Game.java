@@ -10,8 +10,8 @@ public class Game {
 	 * @return mode
 	 */
 	private static int inputMode() {
-		System.out.println("\nInput 1 for One player mode<CPU mode>:");
-		System.out.println("Input 2 for Two player mode:");
+		System.out.println("\nInput 1 for One player and CPU mode:");
+		System.out.println("Input 2 for Two players mode:");
 		System.out.print("Input 3 for Exit:");
 		int mode = inputNumber.nextInt();
 		return mode;

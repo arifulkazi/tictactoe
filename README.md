@@ -1,6 +1,6 @@
 <pre>
-Input 1 for One player mode <CPU mode>:    
-Input 2 for Two player mode:
+Input 1 for One player and CPU mode:    
+Input 2 for Two players mode:
 Input 3 for Exit:1
    |   |  
 ---+---+---
@@ -45,8 +45,8 @@ Input column index for player1[0-2]:1
  O | X | O
 Congratulation!! CPU win the game
 
-Input 1 for One player mode <CPU mode>:  
-Input 2 for Two player mode:
+Input 1 for One player and CPU mode::  
+Input 2 for Two players mode:
 Input 3 for Exit:2
    |   |  
 ---+---+---
